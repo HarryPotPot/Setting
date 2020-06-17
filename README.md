@@ -1,2 +1,2 @@
 # Setting
-# Just some setting
+Just some settings
